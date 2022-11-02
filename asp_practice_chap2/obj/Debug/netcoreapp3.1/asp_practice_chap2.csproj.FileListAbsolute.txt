@@ -30,3 +30,9 @@ D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\obj\Debug\netcoreapp3.
 D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\obj\Debug\netcoreapp3.1\asp_practice_chap2.Views.pdb
 D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\obj\Debug\netcoreapp3.1\asp_practice_chap2.csproj.CopyComplete
 D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptPartial.cshtml.g.cs
+D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs

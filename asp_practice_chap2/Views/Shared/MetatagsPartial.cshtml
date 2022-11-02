@@ -5,3 +5,15 @@
             {
                 <title>@ViewBag.Title</title>
             }
+            else
+            {
+                <title>Моя компанія</title>
+            }
+@if(ViewBag.Description != null)
+            {
+                <meta name="description" content="ViewBag.Description"/>
+            }
+@if(ViewBag.Keywords != null)
+            {
+                <meta name="keywords" content="ViewBag.Keywords"/>
+            }
