@@ -13,21 +13,21 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
-#line 2 "D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\Views\_ViewImports.cshtml"
-using asp_practice_chap2;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 4 "D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\Views\_ViewImports.cshtml"
+#line 3 "D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\Views\_ViewImports.cshtml"
 using Microsoft.AspNetCore.Mvc.Razor.TagHelpers;
 
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 6 "D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\Views\_ViewImports.cshtml"
+using asp_practice_chap2;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"308871b5421e8d96688c3170a01ebd7c5ee83150", @"/Views/Shared/HeaderPartial.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"23c08c525a230249ba10076a01456d5839a61e23", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0acd4a5c48241e95e32986650ae6e7653b7c2f18", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_HeaderPartial : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
