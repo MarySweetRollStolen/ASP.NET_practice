@@ -1,4 +1,3 @@
-D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\bin\Debug\netcoreapp3.1\appsettings.json
 D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\bin\Debug\netcoreapp3.1\asp_practice_chap2.exe
 D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\bin\Debug\netcoreapp3.1\asp_practice_chap2.deps.json
@@ -86,3 +85,5 @@ D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\bin\Debug\netcoreapp3.
 D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\bin\Debug\netcoreapp3.1\appsettings.production.json
+D:\asp.net practice\asp_practice_chap2\asp_practice_chap2\bin\Debug\netcoreapp3.1\appsettings.staging.json
